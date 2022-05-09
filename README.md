@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jakub Kubiak</h1>
-<h3 align="center">A passionate electrical engineering student interested in embedded</h3>
+<h3 align="center">A electrical engineering student interested in embedded and robotics</h3>
 
 - 🔭 I’m currently working on [RoBot](github.com/KubiakJakub/RoBot)
 
