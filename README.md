@@ -8,7 +8,7 @@ Electrical engineering student at PUT interested in robotics, embedded systems, 
 
 ## ⚡ Currently working on:
 * Personal Smart Garden
-* Self driving robot (engineering deegre project)3
+* Self driving robot (engineering deegre project)
 ## 🛠 Skills
 **Programing languages:** C/C++, Python, C#, Dart, Matlab \
 **Frameworks:** ROS, HAL, Arduino, Flutter, Tensorflow, OpenCV, Keras, Pandas \
